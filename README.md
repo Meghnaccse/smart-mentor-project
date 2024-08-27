@@ -1,7 +1,8 @@
-# smart-mentor-projectVision
+![image](https://github.com/user-attachments/assets/00736940-c9fd-4141-8d02-5bc5aec40520)# smart-mentor-projectVision
+
+![image](https://github.com/user-attachments/assets/6aab8476-bda4-4c0e-95e3-303a6a261e69)
 
 
-Flowchart
 
 1. Student sets data → Contract stores data
 2. Student transfers ownership → Contract updates ownership
